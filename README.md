@@ -1,1 +1,1 @@
-# wordpress-with-python
+# wordpress with python
